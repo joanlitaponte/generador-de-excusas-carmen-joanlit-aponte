@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 100px;
+  background-color: royalblue;
+}
+
+h1 {
+  color: black;
+}
+
+#excuse {
+  font-size: 22px;
+  margin-top: 20px;
+}
